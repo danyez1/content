@@ -46,7 +46,7 @@ So, we here at 4Geeks came up with this online platform.  This content we have d
 
 We will present you with one challenge after another, but a trusty senior developer will always be looking at your process to assist you and help you out.  BreatheCode is the place to read, learn and practice code until you permanently affix everything into to your brain.
 
-## But you don't want to read everything right!?!?
+## But you don't want to read everything right?!!!!
 <hr>
 
 You basically want to learn everything about the beautiful art of coding, but you don’t want to read that much... Yeah, we get it. As a result, we have made a huge effort in summing our lessons up. Everything you’ll find here will be the basis of your skills.  There is nothing to "skip over."
